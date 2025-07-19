@@ -1,0 +1,12 @@
+.header-menu {
+    margin-bottom: 135px;
+}
+
+.registration-container {
+border: 2px solid #3d3d3dc7;
+    border-radius: 5px;
+}
+.header-menu {
+    margin-bottom: 135px;
+    box-shadow: none !important; 
+}
